@@ -1,0 +1,25 @@
+{
+  "logs": [
+    {
+      "message": "BBB",
+      "attention": true,
+      "tech": "ayman2 bhere",
+      "date": "2021-06-26T14:29:48.528Z",
+      "id": 1
+    },
+    {
+      "message": "web",
+      "attention": true,
+      "tech": "ayman2 bhere",
+      "date": "2021-06-26T14:38:19.218Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "ayman2",
+      "lastName": "bhere",
+      "id": 1
+    }
+  ]
+}
